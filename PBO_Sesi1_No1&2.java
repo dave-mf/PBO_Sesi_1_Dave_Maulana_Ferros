@@ -8,7 +8,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Dave Maulana Ferros
+ * @author Dave Maulana Ferros - 20210040114 - TI21E
  */
 public class PBO_Sesi1 {
 
